@@ -1,0 +1,15 @@
+USER
+p - s
+p - r
+
+r - p
+r - s
+
+s - r
+s - p
+
+
+
+s - s
+p - p
+r - r
